@@ -1,4 +1,4 @@
-1. Создать бд(имя бд "weather")
+1. Создать бд
 2. Миграцию запустить
 3. Запутить команду: php artisan db:seed --class=CityTableSeeder
 
